@@ -6,7 +6,7 @@
 
 🔺 A propriedade flex-direction deve ser aplicada ao container e define o eixo/fluxo de exibição em que os elementos serão organizados. 
 
-          🔸 row (padrão): Os itens são organizados em forma de linha da esquerda para a direita;
+          🔹 row (padrão): Os itens são organizados em forma de linha da esquerda para a direita;
 
           🔸 row-reverse: Os itens são organizados em forma exibição em linha da direita para a esquerda;
 
