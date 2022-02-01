@@ -70,11 +70,11 @@
 
 <h3>🔺 A propriedade flex-shrink define a proporção com que um item deve encolher caso seja necessário. Por padrão seu valor é 0, o que indica que o item não deve encolher, e são aceitos apenas valores numéricos positivos.</h3>
 
-         .item2{
+       <h4>  .item2{
 
         flex-shrink:2;
 
-        }
+        }</h4>
 
 
 <h3>🔺 O flex-basis define o tamanho inicial que um item deve ter antes que o espaço ao seu redor seja distribuído. Ou seja, dependendo da direção do eixo principal (horizontal ou vertical), essa propriedade define a largura ou altura mínima do elemento antes que ele seja redimensionado por outras propriedades.</h3>
