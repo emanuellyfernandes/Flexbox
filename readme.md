@@ -18,7 +18,7 @@
         
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 column-reverse: Os itens são organizados em forma de colunas iniciando de baixo para cima.
-</p><br><br>
+</p><br>
         
 
 
@@ -33,7 +33,7 @@
 
 <h3>🔺 Com o flex-flow podemos escrever as duas de forma simplificada</h3>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶flex-flow: column wrap;</h4><br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶flex-flow: column wrap;</h4><br>
 
 <h3>🔺 A propriedade justify-content define o alinhamento dos itens ao longo do eixo principal do container.</h3>
 
@@ -45,7 +45,7 @@
           
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶space-between: O primeiro item é deslocado para o início do eixo principal, o último é deslocado para o final do eixo principal e os demais são distribuídos uniformemente entre eles;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶space-around: Os itens são uniformementedistribuídos ao longo do eixo principal. Aqui, porém, são atribuídas margens iguais à esquerda e à direita (ou acima e abaixo, dependendo da direção do eixo principal). Por isso o primeiro e o último item não ficam “colados” nas bordas do container.</p><br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶space-around: Os itens são uniformementedistribuídos ao longo do eixo principal. Aqui, porém, são atribuídas margens iguais à esquerda e à direita (ou acima e abaixo, dependendo da direção do eixo principal). Por isso o primeiro e o último item não ficam “colados” nas bordas do container.</p><br>
 
 <h3>🔺 A propriedade align-content define como as linhas são distribuídas ao longo do eixo transversal do container. </h3>
 
@@ -70,7 +70,7 @@
 
         flex-grow:2;
 
-        }<br><br>
+        }<br>
 
 <h3>🔺 A propriedade flex-shrink define a proporção com que um item deve encolher caso seja necessário. Por padrão seu valor é 0, o que indica que o item não deve encolher, e são aceitos apenas valores numéricos positivos.</h3>
 
@@ -78,7 +78,7 @@
 
         flex-shrink:2;
 
-        }<br><br>
+        }<br>
 
 
 <h3>🔺 O flex-basis define o tamanho inicial que um item deve ter antes que o espaço ao seu redor seja distribuído. Ou seja, dependendo da direção do eixo principal (horizontal ou vertical), essa propriedade define a largura ou altura mínima do elemento antes que ele seja redimensionado por outras propriedades.</h3><br>
