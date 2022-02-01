@@ -1,4 +1,4 @@
-<h1>⭐️ Flex Box ⭐️ 🔸</h1>
+<h1>⭐️ Flex Box ⭐️</h1>
 
 🔺 O Flexbox é um conjunto de propriedades que tem por objetivo organizar itens dentro de um elemento pai, normalmente chamado de container.
 
