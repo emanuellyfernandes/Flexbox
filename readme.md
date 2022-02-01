@@ -8,10 +8,10 @@
 
 
 <p>
-  🔶 row (padrão): Os itens são organizados em forma de linha da esquerda para a direita;
+  &nbsp;🔶 row (padrão): Os itens são organizados em forma de linha da esquerda para a direita;
         
 
-  🔶 row-reverse: Os itens são organizados em forma exibição em linha da direita para a esquerda;
+  &nbsp;🔶 row-reverse: Os itens são organizados em forma exibição em linha da direita para a esquerda;
         
 
   🔶 column: Os itens são organizados em forma de colunas iniciando de cima para baixo;
