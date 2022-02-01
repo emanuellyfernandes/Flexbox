@@ -8,10 +8,13 @@
 
 <ul>
         <h4>🔸 row (padrão): Os itens são organizados em forma de linha da esquerda para a direita;</h4>
+        
 
         <h4>🔸 row-reverse: Os itens são organizados em forma exibição em linha da direita para a esquerda;</h4>
+        
 
         <h4>🔸 column: Os itens são organizados em forma de colunas iniciando de cima para baixo;</h4>
+        
 
         <h4>🔸 column-reverse: Os itens são organizados em forma de colunas iniciando de baixo para cima.</h4>
 </ul>
