@@ -60,7 +60,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶space-between: A primeira linha é deslocada para o início do eixo 
           transversal, a última é deslocada para o final do eixo transversal e as demais são distribuídas uniformemente entre eles;
           
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶space-around: As linhas são uniformemente distribuídas ao longo do eixo transversal. Aqui, porém, são atribuídas margens iguais à esquerda e à direita (ou acima e abaixo, dependendo da direção do eixo transversal). Por isso a primeira e a última linha não ficam “coladas” nas bordas do container.</p><br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶space-around: As linhas são uniformemente distribuídas ao longo do eixo transversal. Aqui, porém, são atribuídas margens iguais à esquerda e à direita (ou acima e abaixo, dependendo da direção do eixo transversal). Por isso a primeira e a última linha não ficam “coladas” nas bordas do container.</p><br>
 
 <h3>🔺 Por padrão, os itens são distribuídos no container na ordem em que são inseridos no HTML. No entanto, essa ordem pode ser alterada por meio da propriedade order.</h3><br>
 
