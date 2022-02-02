@@ -64,7 +64,7 @@
 
 <h3>🟦 Por padrão, os itens são distribuídos no container na ordem em que são inseridos no HTML. No entanto, essa ordem pode ser alterada por meio da propriedade order.</h3><br>
 
-<h3>🟦 A propriedade flex-frow define a proporção com que um item deve crescer caso seja necessário. Por padrão seu valor é 0, o que indica que o item não deve crescer, e são aceitos apenas valores numéricos positivos.</h3>
+<h3>🟦 A propriedade flex-grow define a proporção com que um item deve crescer caso seja necessário. Por padrão seu valor é 0, o que indica que o item não deve crescer, e são aceitos apenas valores numéricos positivos.</h3>
  
         .item2{
 
